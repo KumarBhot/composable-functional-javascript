@@ -3,6 +3,7 @@
 ## Chapters:
 
 1.  [Create linear data flow with container style types (Box)](01.introduction-box.js)
+2.  [Refactor imperative code to a single composed expression using Box](02.imperative-to-composed.js)
 
 ## How to run
 
