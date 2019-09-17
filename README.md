@@ -5,6 +5,7 @@
 1.  [Create linear data flow with container style types (Box)](01.introduction-box.js)
 2.  [Refactor imperative code to a single composed expression using Box](02.imperative-to-composed.js)
 3.  [Enforce a null check with composable code branching using Either](03.null-check-with-either.js)
+4.  [Use chain for composable error handling with nested Either](04.nested-either-using-chain.js)
 
 ## How to run
 
