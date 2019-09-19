@@ -7,6 +7,7 @@
 3.  [Enforce a null check with composable code branching using Either](03.null-check-with-either.js)
 4.  [Use chain for composable error handling with nested Either](04.nested-either-using-chain.js)
 5.  [Examples of Either in comparison with imperative code](05.either-examples.js)
+6.  [Create types with Semigroups](06.types-with-semigroups.js)
 
 ## How to run
 
