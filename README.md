@@ -8,6 +8,7 @@
 4.  [Use chain for composable error handling with nested Either](04.nested-either-using-chain.js)
 5.  [Examples of Either in comparison with imperative code](05.either-examples.js)
 6.  [Create types with Semigroups](06.types-with-semigroups.js)
+7.  [Semigroup examples](07.semigroup-examples.js)
 
 ## How to run
 
