@@ -9,6 +9,7 @@
 5.  [Examples of Either in comparison with imperative code](05.either-examples.js)
 6.  [Create types with Semigroups](06.types-with-semigroups.js)
 7.  [Semigroup examples](07.semigroup-examples.js)
+8.  [Ensure failsafe combination using Monoids](08.monoids.js)
 
 ## How to run
 
