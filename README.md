@@ -10,6 +10,7 @@
 6.  [Create types with Semigroups](06.types-with-semigroups.js)
 7.  [Semigroup examples](07.semigroup-examples.js)
 8.  [Ensure failsafe combination using Monoids](08.monoids.js)
+9.  [Monoid examples](09.monoid-examples.js)
 
 ## How to run
 
