@@ -11,6 +11,7 @@
 7.  [Semigroup examples](07.semigroup-examples.js)
 8.  [Ensure failsafe combination using Monoids](08.monoids.js)
 9.  [Monoid examples](09.monoid-examples.js)
+10. [Unibox types with foldMap](10.unibox-types-with-foldmap.js)
 
 ## How to run
 
