@@ -12,6 +12,7 @@
 8.  [Ensure failsafe combination using Monoids](08.monoids.js)
 9.  [Monoid examples](09.monoid-examples.js)
 10. [Unibox types with foldMap](10.unibox-types-with-foldmap.js)
+11. [Delay evaluation with LazyBox](11.evaluation-delay-with-lazybox.js)
 
 ## How to run
 
