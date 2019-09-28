@@ -13,6 +13,7 @@
 9.  [Monoid examples](09.monoid-examples.js)
 10. [Unibox types with foldMap](10.unibox-types-with-foldmap.js)
 11. [Delay evaluation with LazyBox](11.evaluation-delay-with-lazybox.js)
+12. [Capture side effects in a Task](12.side-effects-with-task.js)
 
 ## How to run
 
