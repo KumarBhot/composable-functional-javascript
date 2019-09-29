@@ -5,12 +5,16 @@ const Left = x => ({
   inspect: () => `Left( ${x} )`
 });
 
+Left.of = x => Left(x);
+
 const Right = x => ({
   chain: f => f(x),
   map: f => Right(f(x)),
   fold: (f, g) => g(x),
   inspect: () => `Right( ${x} )`
 });
+
+Right.of = x => Right(x);
 
 const fromNullable = x =>
   x ? Right(x) : Left(null);
@@ -27,3 +31,4 @@ exports.Left = Left;
 exports.Right = Right;
 exports.fromNullable = fromNullable;
 exports.tryCatch = tryCatch;
+exports.Either = Right;

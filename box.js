@@ -5,4 +5,6 @@ const Box = x =>
     inspect: () => `Box('${x}')`
   });
 
+Box.of = x => Box(x);
+
 exports.Box = Box;

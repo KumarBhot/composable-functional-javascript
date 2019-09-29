@@ -15,6 +15,7 @@
 11. [Delay evaluation with LazyBox](11.evaluation-delay-with-lazybox.js)
 12. [Capture side effects in a Task](12.side-effects-with-task.js)
 13. [Use Task for Asynchronous Actions](13.async-actions-with-task.js)
+14. [You have been using Functors](14.introduction-functors.js)
 
 ## How to run
 
