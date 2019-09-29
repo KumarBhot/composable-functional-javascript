@@ -16,6 +16,7 @@
 12. [Capture side effects in a Task](12.side-effects-with-task.js)
 13. [Use Task for Asynchronous Actions](13.async-actions-with-task.js)
 14. [You have been using Functors](14.introduction-functors.js)
+15. [Lift into a pointed Functor with of](15.pointed-functors.js)
 
 ## How to run
 
