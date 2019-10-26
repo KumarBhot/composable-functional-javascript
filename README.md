@@ -18,6 +18,7 @@
 14. [You have been using Functors](14.introduction-functors.js)
 15. [Lift into a pointed Functor with of](15.pointed-functors.js)
 16. [You've been using Monads](16.introduction-monads.js)
+17. [Build curried functions](17.build-curried-functions.js)
 
 ## How to run
 
