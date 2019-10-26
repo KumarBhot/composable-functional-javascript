@@ -20,6 +20,7 @@
 16. [You've been using Monads](16.introduction-monads.js)
 17. [Build curried functions](17.build-curried-functions.js)
 18. [Applicative Functors for multiple arguments](18.applicative-functors.js)
+19. [Apply multiple Functors as arguments to a function (Applicatives)](19.applicatives.js)
 
 ## How to run
 
