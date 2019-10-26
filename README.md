@@ -17,6 +17,7 @@
 13. [Use Task for Asynchronous Actions](13.async-actions-with-task.js)
 14. [You have been using Functors](14.introduction-functors.js)
 15. [Lift into a pointed Functor with of](15.pointed-functors.js)
+16. [You've been using Monads](16.introduction-monads.js)
 
 ## How to run
 
