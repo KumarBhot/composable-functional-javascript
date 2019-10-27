@@ -23,6 +23,7 @@
 19. [Apply multiple Functors as arguments to a function (Applicatives)](19.applicatives.js)
 20. [List comprehensions with Applicative Functors](20.list-comprehensions-with-applicatives.js)
 21. [Applicatives for concurrent actions](21.applicatives-for-concurrent-actions.js)
+22. [Leapfrogging types with Traversable](22.leapfrogging-types-with-traversable.js)
 
 ## How to run
 
