@@ -25,6 +25,7 @@
 21. [Applicatives for concurrent actions](21.applicatives-for-concurrent-actions.js)
 22. [Leapfrogging types with Traversable](22.leapfrogging-types-with-traversable.js)
 23. [Maintaining structure whilst asyncing](23.maintaining-structure-whilst-asyncing.js)
+24. [Principled type conversions with Natural Transformations](24.natural-transformations.js)
 
 ## How to run
 
