@@ -27,6 +27,7 @@
 23. [Maintaining structure whilst asyncing](23.maintaining-structure-whilst-asyncing.js)
 24. [Principled type conversions with Natural Transformations](24.natural-transformations.js)
 25. [Apply Natural Transformations in everyday work](25.everyday-natural-transformations.js)
+26. [Isomorphisms and round trip data transformations](26.introduction-isomorphism.js)
 
 ## How to run
 
